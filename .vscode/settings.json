@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/*.js.map": true,
+        "dist": true
+    },
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "editor.renderWhitespace": "all",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es5",
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "removeComments": false,
+        "noImplicitAny": false,
+        "jsx": "react",
+        "noUnusedLocals": true
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "**/*"
+    ]
+}
